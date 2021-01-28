@@ -55,7 +55,7 @@
     "babel-eslint": "^8.2.1",
     "babel-jest": "^23.4.2",
     "devtron": "1.4.0",
-    "electron": "^3.0.8",
+    "electron": "^9.4.0",
     "electron-builder": "^20.39.0",
     "electron-debug": "^2.0.0",
     "electron-devtools-installer": "^2.2.4",
